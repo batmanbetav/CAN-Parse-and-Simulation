@@ -8,4 +8,4 @@ This project was developed on Intellij IDEA:
 3. A GUI window named "Simulator GUI" will pop up
 4.Click the "Run Sim" button to see the live data
 
-![image](./readme/Simulator.png "Simulator")
+![image](Simulator.png "Simulator")
