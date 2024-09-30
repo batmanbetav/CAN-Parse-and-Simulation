@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="Ser494-540-spring2022-project1:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/Ser494_540_spring2022_project1_jar</output-path>
-    <root id="archive" name="Ser494-540-spring2022-project1.jar">
-      <element id="module-output" name="Ser494-540-spring2022-project1" />
-    </root>
-  </artifact>
-</component>
